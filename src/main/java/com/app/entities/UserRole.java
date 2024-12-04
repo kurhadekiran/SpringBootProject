@@ -1,0 +1,7 @@
+package com.app.entities;
+
+public enum UserRole {
+//	 ROLE_ADMIN, ROLE_SUPPLIER, ROLE_INVESTOR , ROLE_BUYER, ROLE_CUSTOMER, ROLE_USER,
+	
+	ADMIN,SUPPLIER,INVESTOR,BUYER,
+}
